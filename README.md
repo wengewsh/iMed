@@ -6,3 +6,6 @@ We provide three examples.
 The first example consists of 2 subgroups with different direction mediation effects and equal probabilities.  
 The second example still consists of 2 subgroups with small but same direction mediation effects.  
 The third example consists 3 subgroups with unequal probabilities and different direction mediation effects (positive, null and negative, respectively).
+
+# Reference
+Wang WW,  Xu J, Schwartz J, Baccarelli A, Liu Z. Causal Mediation Analysis with Latent Subgroups. 2021. 
