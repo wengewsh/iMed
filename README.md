@@ -1,5 +1,5 @@
 # iMed
-iMed is a causal mediation analysis approach for latent subgroup strcture, where each mixture component corresponds to one latent subgroup in the linear strcutural equation model framework, in which the expectation-maximization (EM) algorithm is used for estimating model parameters and singular Bayesian Information Criterion (sBIC) is usef for model selection.
+iMed is a causal mediation analysis approach for latent subgroup strcture where each mixture component corresponds to one latent subgroup in the linear strcutural equation model framework, in which the expectation-maximization (EM) algorithm is used for estimating model parameters and singular Bayesian Information Criterion (sBIC) is usef for model selection.
 
 # Three Examples
 We provide three examples. 
